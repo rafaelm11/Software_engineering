@@ -38,7 +38,7 @@ VPNSurfer – бот в среде мессенджера телеграм, пр
 [1]: https://github.com/rafaelm11/Software_engineering/blob/main/participants.md
 [2]: https://github.com/rafaelm11/Software_engineering/blob/main/Requirements/functional_requirements.md
 [3]: https://github.com/rafaelm11/Software_engineering/blob/main/Requirements/non_functional_requirements.md
-[4]: https://github.com/rafaelm11/Software_engineering/blob/main/Requirements/brainstorming.md
+[4]: https://github.com/rafaelm11/Software_engineering/blob/main/Requirements/brainstorm.md
 [5]: https://github.com/rafaelm11/Software_engineering/blob/main/Requirements/survey.md
 [6]: https://github.com/rafaelm11/Software_engineering/blob/main/Requirements/interview.md
 [7]: https://github.com/rafaelm11/Software_engineering/blob/main/Stakeholders/stakeholders_table.md
